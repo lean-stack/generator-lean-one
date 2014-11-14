@@ -1,0 +1,25 @@
+{
+  "name": "generator-lean-one",
+  "version": "0.0.1",
+  "description": "Webapp generator. Sass and Browserify, dependencies with bower and npm. Gulp driven.",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lean-stack/generator-lean-one.git"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "Michael Alt <lean@michael-alt.info>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lean-stack/generator-lean-one/issues"
+  },
+  "homepage": "https://github.com/lean-stack/generator-lean-one",
+  "dependencies": {
+    "yeoman-generator": "^0.18.0"
+  }
+}
